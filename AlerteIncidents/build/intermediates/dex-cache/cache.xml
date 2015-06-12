@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-7fdaf9909469d761058d90ad74a192601d89427b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-f3ffc294964a727c1be4a36b306956468d0821ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-4fb2ba35bcf500c93624e1234ba54652bdfda254.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-ed018fd3e89f42d81c1997b8c5d304231ba91c4d.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-783e10862c8c3255c39ce035e99d8e79f6798efc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-d2cb7621ecf7ccd72892db13b7e23b4b83d9019e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-0a4a40aa465a4275bce7b91a6fbe57c352f05d40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-d7c09b02527757bf637cea6506a4220465d04b9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-aa2ddb082a4d9c6d5f47f0bbb181454b6fdaa1b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-5631e5104689db3b4fcf4194a787823dc6aaf364.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-b60096f40948ce43d05d6b75779f69319db9d87a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-20bc5ad4583d3b47bd18278b48ffbf755e8cb809.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-99b3e5c42e4cbe8e96279f57af765846f689d0dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-ca08846c76849d35896470d962692fe3481154a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-5b970be81b3eac1bc7f2fbb7788abbe4fc23ea64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-84b86ce4af9584a92dbb898b87c34821d2eaafca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-b1aaf67f942208e49ab021dc0304cf71070bbd8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7a2ce24066bc554dd791f37af65a6dabe3134720.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-84c02dc231cb677936886c031bafcbb6fa28b935.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-f3255292fd2f3169f66e2d7e9bcc1cf3f737b0bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-fd4d0d42906a74cab358b2ff592b0f7225c80565.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-96a108009c9308532c1381bbd12611cef4136748.jar" />
+    </item>
+    <item
+        jar="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Phantom\AndroidStudioProjects\AlerteIncidents\app\build\intermediates\pre-dexed\debug\classes-11457a6acf9433c6e1438bc371523f5916339de1.jar" />
+    </item>
+
+</items>
